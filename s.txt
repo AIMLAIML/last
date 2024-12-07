@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 biet
 =======
 davangere
 >>>>>>> 39a77474d234dcf2cfcb3c9c7a1153690e18c03e
+=======
+Hiiiii
+>>>>>>> swe
